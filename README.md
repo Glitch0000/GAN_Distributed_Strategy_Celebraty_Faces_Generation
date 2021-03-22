@@ -1,5 +1,5 @@
 # GAN_Distributed_Strategy_Celebraty_Faces_Generation
-This repository will demonstrate a GAN trained on the CelebA dataset. This is a resource-intensive task so we will use a TPU and a distributed strategy to train the network.
+This repository will demonstrate a GAN trained on the CelebA dataset. This is a resource-intensive task so we will use a TPU and a distributed strategy to train the network and genterate the celebraties images.
 
 The rsults after the first epoch:
 
